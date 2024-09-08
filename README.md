@@ -688,7 +688,7 @@ Normalization: Ensure that your database design avoids redundancy. For example, 
 
 7. Design an entity relationship diagram (ERD) based on the answers provided to sub-questions E and F. This must represent a relational database model, even if the app itself uses something other than a relational database model.
 
-![Airbnb_ERD](references/12_ERD.JPG)
+![Airbnb_ERD](references/12_ERD.JPG){width=250}
 ## References
 
 [[1]] - “Ed Discussion.” Edstem.org, 2024, edstem.org/au/courses/16448/lessons/52032/slides/354142.
@@ -734,4 +734,7 @@ Normalization: Ensure that your database design avoids redundancy. For example, 
 [[40]] - “What Is React.” W3schools.com, 2015, www.w3schools.com/whatis/whatis_react.asp.
 [[41]] - “Build with Me – Airbnb & Rong Hu, Senior Software Engineer.” Amazon Web Services, Inc., 2022, aws.amazon.com/solutions/case-studies/innovators/airbnb/#:~:text=Airbnb%20Grows%20with%20Flexibility%20and%20Responsiveness%20Using%20AWS&text=As%20our%20company%20continued%20to. Accessed 8 Sept. 2024.
 [[42]] - W3Schools. “Node.js Introduction.” W3schools.com, 2019, www.w3schools.com/nodejs/nodejs_intro.asp.
-[[43]] - Airbnb listing. https://www.airbnb.com.au/rooms/41133305?adults=1&category_tag=Tag%3A8186&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=938553204&search_mode=flex_destinations_search&check_in=2024-09-15&check_out=2024-09-20&source_impression_id=p3_1725753246_P3vCaEaMan0EDnJp&previous_page_section_name=1000&federated_search_id=d60b7987-bafb-46ae-a80c-cad27c38f0e5
+[[43]] - Airbnb listing. https://www.airbnb.com.au/rooms/41133305?adults=1&category_tag=Tag%3A8186&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=938553204&search_mode=flex_destinations_search&check_in=2024-09-15&check_out=2024-09-20&source_impression_id=p3_1725753246_P3vCaEaMan0EDnJp&previous_page_section_name=1000&federated_search_id=d60b7987-bafb-46ae-a80c-cad27c38f0e5# T2-A1-A
+# T2-A1-A
+# T2-A1-A
+# t2a1-a
